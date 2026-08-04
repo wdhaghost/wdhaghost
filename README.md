@@ -9,16 +9,6 @@
 * Je suis curieux et je m’adapte aux technologies et aux besoins de chaque projet.
 * Vous pouvez me contacter à l’adresse **[abdou.coulibaly@outlook.fr](mailto:abdou.coulibaly@outlook.fr)**.
 
-## 📺 Projet principal
-
-### [Series Tracker](https://github.com/wdhaghost/Series-Tracker)
-
-Une application full stack permettant de suivre ses séries, sa progression par saison et par épisode, ses favoris ainsi que les prochaines sorties. (🪦RIP TV Time)
-
-Ce projet me permet d’apprendre et d’appliquer les principes de l’**architecture hexagonale**.
-
-Mon objectif est de mettre l’application en production afin qu’elle puisse être utilisée et testée dans des conditions réelles.
-
 ## 🛠️ Technologies
 
 ### Langages
