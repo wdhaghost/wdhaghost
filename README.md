@@ -5,9 +5,7 @@
 ## À propos de moi
 
 * J’aime résoudre des problèmes et transformer des besoins en fonctionnalités concrètes.
-* J’approfondis mes compétences en architecture backend, en tests et en qualité de code.
 * Je suis curieux et je m’adapte aux technologies et aux besoins de chaque projet.
-* Vous pouvez me contacter à l’adresse **[abdou.coulibaly@outlook.fr](mailto:abdou.coulibaly@outlook.fr)**.
 
 ## 🛠️ Technologies
 
